@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "879469245579",
+    "project_id": "video-dowloader-2dfa0",
+    "storage_bucket": "video-dowloader-2dfa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879469245579:android:ccb52e624922d42392108e",
+        "android_client_info": {
+          "package_name": "com.example.videodownloader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC-szTVlH9phQx9CYuuRSfgOM-jBVyM6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
